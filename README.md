@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">A passionate frontend developer from La Paz, Bolivia , I work with HTML,CSS,JAVASCRIPT,SASS,TAILWIND,REACT</h3>
+<h3 align="center">A passionate frontend developer from La Paz, Bolivia , I work with HTML,CSS,JAVASCRIPT,SASS,TAILWIND,REACT,VUE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonelchauca&label=Profile%20views&color=0e75b6&style=flat" alt="leonelchauca" /> </p>
 
